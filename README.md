@@ -1,35 +1,33 @@
 
 
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=Perfil&message=by%20Gabriel&color=GREEN&style=for-the-badge"/>
-</p>
-
-<p align="center">
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/27c219ff710f5d13d41177b3e97e401d.gif" align="center" width="300" height="119" border="0" alt="https://picasion.com/" /></a><br /><a href="">Sejam Bem Vindos!</a>
-
+<h1> Hi! My name is Ellen. </h1>
 
 <div>
- <p align="center"> ->👨‍💻 I`m Students`s Funec Riacho </p>
-  <p align="center"> ->📚 Studying Computer Technician </p>
- 
-![GabrielBarcelosD Status](https://github-readme-stats.vercel.app/api?username=GabrielBarcelosD&show_icons=true&theme=radical)
+  <a href="https://github.com/ellen2121">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
 
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
-
-
-
-
-## 
-
-
-<div style=" inline_block"><br>
-<img align="left" src="https://i.picasion.com/pic92/d372b1be6658af399994d6fddda1fd94.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a>
-<img align="right" src="https://i.picasion.com/pic92/e8f9f7703a0fd871a2a96e73c8cff902.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a>
- <p align="center">
-<img align="center" alt="Gabriel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img  align="center" alt="Gabriel-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- </p>
- </div>
-</br>
-
+ <br>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ 
+    
+</div>
+  <br><a href="https://www.youtube.com/channel/UCSawC0irKSG8W05zahr1i9w" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/caldasflamejantes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ellen-maria-da-silva-caldas-4824b01a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=ELLEN2121&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
